@@ -1,4 +1,4 @@
-# hesapMakinesi
-Basit bir hesap makinesi uygulamasıdır.
-Bağlantıyı kullanarak kurulum dosyasını indirebilirsiniz.
+# calculator program
+It is a simple calculator application.
+You can download the setup file using the link.
 https://drive.google.com/file/d/1DiHClxLzP_Xjz5NRGBgAbw6mZgobJLRp/view?usp=sharing
